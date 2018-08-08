@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebbokLogin</string>
+    <string name="facebook_app_id">657159591326743</string>
+    <string name="share">Share</string>
+    <string name="fb_login_protocol_scheme">fb133301092005XXX</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
